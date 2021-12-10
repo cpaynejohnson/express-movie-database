@@ -1,9 +1,9 @@
-const {sequelize} = require('./db')
+const {sequelize} = require('../db')
 const {DataTypes, Model} = require('sequelize')
 
 class Cast extends Model {}
     Cast.init({
-    cast_member_name: DataTypes.STRING,
+    cast_name: DataTypes.STRING,
     character_name: DataTypes.STRING,
     speaking_role: DataTypes.BOOLEAN,
 },  {

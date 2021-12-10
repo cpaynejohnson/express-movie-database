@@ -1,4 +1,4 @@
-const {sequelize} = require('./db')
+const {sequelize} = require('../db')
 const {DataTypes, Model} = require('sequelize')
 
 class Movie extends Model {}
@@ -6,7 +6,7 @@ class Movie extends Model {}
     Movie.init({
     title: DataTypes.STRING,
     date_released: DataTypes.DATEONLY,
-    running_time: DataTypes.INTEGER,
+    running_time_mins: DataTypes.INTEGER,
     mpa_rating: DataTypes.STRING,
 },  {
     sequelize,

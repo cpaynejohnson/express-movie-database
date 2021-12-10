@@ -1,13 +1,13 @@
 const {sequelize, DataTypes, Model} = require('./db')
 
-const {Crew} = require('./crew')
-const {Cast} = require('./cast')
-const {Movie} = require('./movie')
+const {Crew} = require('./models/crew')
+const {Cast} = require('./models/cast')
+const {Movie} = require('./models/movie')
 const { BelongsTo } = require('sequelize/dist')
 
 //model associaions
-Cast.BelongsTo(Movie)
-Crew.BelongsTo(Movie)
+Cast.belongsTo(Movie)
+Crew.belongsTo(Movie)
 
 Movie.hasMany(Crew)
 Movie.hasMany(Cast)
