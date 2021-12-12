@@ -1,6 +1,6 @@
 # express-movie-database
 <img src="public/post_cast.png" width="500" height="500" />
-# ![get_cast_by_id.png](get_cast_by_id.png)
+<img src="get_cast_by_id.png"/>(./get_cast_by_id.png)
 
 # The goal of this project is to: 
 
