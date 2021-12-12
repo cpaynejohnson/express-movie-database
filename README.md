@@ -24,14 +24,14 @@ Create an API that allows users to interact with our movie database.  Users are 
 
 # Project Planning                                                              
 <p float="left">
-  <img src="public/express-movie-ERD.png" width="400" height="300" />
-  <img src="https://raw.githubusercontent.com/cpaynejohnson/express-movie-database/main/public/kanban.png" width="400" height="300" />
+  <img src="public/express-movie-ERD.png" width="400" height="400" />
+  <img src="https://raw.githubusercontent.com/cpaynejohnson/express-movie-database/main/public/kanban.png" width="400" height="400" />
 </p>
                                                                                                           
 # Testing
 <p float="left">
-  <img src="test_file.png" width="500" height="500" />
-  <img src="test_report.png" width="500" height="500" />
+  <img src="public/test_file.png" width="500" height="500" />
+  <img src="public/test_report.png" width="500" height="500" />
 </p>
                                                      
 # Getting Started
