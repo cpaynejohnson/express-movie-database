@@ -1,4 +1,6 @@
 # express-movie-database
+![Postman of create cast]<img src="public/post_cast.png" width="500" height="500" />
+![Postman of get cast by id]<img src="./get_cast_by_id.png"/>
 
 # The goal of this project is to: 
 
@@ -19,9 +21,17 @@ Create an API that allows users to interact with our movie database.  Users are 
 </ul>
 
 # Project Planning
-<img src="express-movie-ERD.png" width="600" height="500">
-<img src="kanban.png" width="500" height="500">
+![ERD diagram]<img src="express-movie-ERD.png" width="600" height="500" />
+![kanban board]<img src="https://raw.githubusercontent.com/cpaynejohnson/express-movie-database/main/public/kanban.png">
 
 # Testing
-<img src="test_file.png" width="500" height="500">
-<img src="test_report.png" width="500" height="500">
+<img src="test_file.png" width="500" height="500" />
+<img src="test_report.png" width="500" height="500" />
+
+# Getting Started
+
+Fork and clone this repository then run <code class="w3-codespan">npm install</code> to add the relevant dependencies. Run <code class="w3-codespan">npm run test</code> to seed the database and confirm tests pass. Finally, run <code class="w3-codespan">npm run app.js</code> to run the express server and interact with the Routes using <a href="https://www.postman.com/">Postman</a>.
+
+# Contribution Guidelines
+
+To make suggestions, create a new issue on this repo.
