@@ -1,7 +1,7 @@
 # express-movie-database
 <p float="left">
-  <img src="public/post_cast.png" width="500" height="300" />
-  <img src="public/get_cast_by_id.png" width="500 height="300"/>
+  <img src="public/post_cast.png" width="500" height="400" />
+  <img src="public/get_cast_by_id.png" width="500 height="300" />
 </p>
 
 # The goal of this project is to: 
