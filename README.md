@@ -19,6 +19,6 @@ Create an API that allows users to interact with our movie database.  Users are 
 </ul>
 
 # Project Planning
-<img> 
+<img src=”(https://crystaljohnson.atlassian.net/jira/software/projects/EMD/boards/1)”>
 
 # Testing
