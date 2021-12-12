@@ -23,3 +23,5 @@ Create an API that allows users to interact with our movie database.  Users are 
 <img src="kanban.png" width="500" height="500">
 
 # Testing
+<img src="test_file.png" width="500" height="500">
+<img src="test_report.png" width="500" height="500">
