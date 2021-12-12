@@ -19,7 +19,7 @@ Create an API that allows users to interact with our movie database.  Users are 
 </ul>
 
 # Project Planning
-<img src="express-movie-ERD.png" width="500" height="500">
+<img src="express-movie-ERD.png" width="600" height="500">
 <img src="kanban.png" width="500" height="500">
 
 # Testing
