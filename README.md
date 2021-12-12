@@ -27,3 +27,11 @@ Create an API that allows users to interact with our movie database.  Users are 
 # Testing
 <img src="test_file.png" width="500" height="500">
 <img src="test_report.png" width="500" height="500">
+
+# Getting Started
+
+Fork and clone this repository then run npm install to add the relevant dependencies. Run npm run test to seed the database and confirm tests pass. Finally, run server.js to run the express server and interact with the Routes using Postman.
+
+# Contribution Guidelines
+
+To make suggestions, create a new issue on this repo.
