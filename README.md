@@ -20,6 +20,6 @@ Create an API that allows users to interact with our movie database.  Users are 
 
 # Project Planning
 <img src="express-movie-ERD.png">
-
+<img src="Screenshot 2021-12-11 225231.png">
 
 # Testing
