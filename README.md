@@ -15,7 +15,7 @@ Create an API that allows users to interact with our movie database.  Users are 
 <li>Sequelize</li>
 <li>SQLite 3</li>
 <li>Express</li>
-<li>JavaScript</li>
+<li>Postman</li>
 </ul>
 
 # Project Planning
