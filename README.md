@@ -30,7 +30,7 @@ Create an API that allows users to interact with our movie database.  Users are 
 
 # Getting Started
 
-Fork and clone this repository then run npm install to add the relevant dependencies. Run npm run test to seed the database and confirm tests pass. Finally, run server.js to run the express server and interact with the Routes using Postman.
+Fork and clone this repository then run npm install to add the relevant dependencies. Run npm run test to seed the database and confirm tests pass. Finally, run server.js to run the express server and interact with the Routes using <a href="https://www.postman.com/">Postman</a>.
 
 # Contribution Guidelines
 
