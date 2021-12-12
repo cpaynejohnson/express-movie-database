@@ -1,6 +1,6 @@
 # express-movie-database
 <img src="public/post_cast.png" width="500" height="500" />
-<p><img src="get_cast_by_id.png"/></p>
+<p><img src="./get_cast_by_id.png"/></p>
 
 # The goal of this project is to: 
 
