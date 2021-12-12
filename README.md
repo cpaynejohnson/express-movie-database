@@ -1,6 +1,6 @@
 # express-movie-database
-<img src="post_cast.png" width="500" height="500">
-<img src="get_cast_by_id.png" width="500" height="500">
+<img src="post_cast.png" width="500" height="500" />
+<img src="get_cast_by_id.png" width="500" height="500" />
 
 # The goal of this project is to: 
 
@@ -21,12 +21,12 @@ Create an API that allows users to interact with our movie database.  Users are 
 </ul>
 
 # Project Planning
-<img src="/express-movie-ERD.png" width="600" height="500" />
+<img src="express-movie-ERD.png" width="600" height="500" />
 <img src="kanban.png" width="500" height="500" />
 
 # Testing
-<img src="test_file.png" width="500" height="500">
-<img src="test_report.png" width="500" height="500">
+<img src="test_file.png" width="500" height="500" />
+<img src="test_report.png" width="500" height="500" />
 
 # Getting Started
 
