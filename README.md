@@ -1,6 +1,6 @@
 # express-movie-database
 <img src="public/post_cast.png" width="400" height="400" />
-![Postman of get cast by id]<img src="public/get_cast_by_id.png" width="400 height="400"/>
+<img src="public/get_cast_by_id.png" width="400 height="400"/>
 
 # The goal of this project is to: 
 
@@ -21,8 +21,8 @@ Create an API that allows users to interact with our movie database.  Users are 
 </ul>
 
 # Project Planning
-![ERD diagram]<img src="express-movie-ERD.png" width="600" height="500" />
-![kanban board]<img src="https://raw.githubusercontent.com/cpaynejohnson/express-movie-database/main/public/kanban.png">
+<img src="public/express-movie-ERD.png" width="400" height="300" />
+<img src="https://raw.githubusercontent.com/cpaynejohnson/express-movie-database/main/public/kanban.png">
 
 # Testing
 <img src="test_file.png" width="500" height="500" />
