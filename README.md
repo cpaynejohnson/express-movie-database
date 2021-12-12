@@ -11,7 +11,7 @@
 # Technologies Used:
 <ul>
 <li>Jest</li><br>
-<li><Sequelize</li><br>
+<li>Sequelize</li><br>
 <li>SQLite 3</li><br>
 <li>Express</li><br>
 <li>JavaScript</li>
