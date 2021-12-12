@@ -22,14 +22,18 @@ Create an API that allows users to interact with our movie database.  Users are 
 <li>Postman</li>
 </ul>
 
-# Project Planning
-<img src="public/express-movie-ERD.png" width="400" height="300" />
-<img src="https://raw.githubusercontent.com/cpaynejohnson/express-movie-database/main/public/kanban.png">
-
+# Project Planning                                                              
+<p float="left">
+  <img src="public/express-movie-ERD.png" width="400" height="300" />
+  <img src="https://raw.githubusercontent.com/cpaynejohnson/express-movie-database/main/public/kanban.png">
+</p>
+                                                                                                          
 # Testing
-<img src="test_file.png" width="500" height="500" />
-<img src="test_report.png" width="500" height="500" />
-
+<p float="left">
+  <img src="test_file.png" width="500" height="500" />
+  <img src="test_report.png" width="500" height="500" />
+</p>
+                                                     
 # Getting Started
 
 Fork and clone this repository then run <code class="w3-codespan">npm install</code> to add the relevant dependencies. Run <code class="w3-codespan">npm run test</code> to seed the database and confirm tests pass. Finally, run <code class="w3-codespan">npm run app.js</code> to run the express server and interact with the Routes using <a href="https://www.postman.com/">Postman</a>.
