@@ -10,9 +10,9 @@
 
 # Technologies Used:
 <ul>
-<li>Jest</li><br>
-<li>Sequelize</li><br>
-<li>SQLite 3</li><br>
-<li>Express</li><br>
+<li>Jest</li>
+<li>Sequelize</li>
+<li>SQLite 3</li>
+<li>Express</li>
 <li>JavaScript</li>
 </ul>
