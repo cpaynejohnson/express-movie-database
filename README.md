@@ -17,3 +17,8 @@ Create an API that allows users to interact with our movie database.  Users are 
 <li>Express</li>
 <li>JavaScript</li>
 </ul>
+
+# Project Planning
+<img> 
+
+# Testing
