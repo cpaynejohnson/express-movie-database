@@ -22,7 +22,7 @@ Create an API that allows users to interact with our movie database.  Users are 
 
 # Project Planning
 <img src="express-movie-ERD.png" width="600" height="500" />
-#![kanban board]<img src="https://raw.githubusercontent.com/cpaynejohnson/express-movie-database/main/public/kanban.png">
+![kanban board]<img src="https://raw.githubusercontent.com/cpaynejohnson/express-movie-database/main/public/kanban.png">
 
 # Testing
 <img src="test_file.png" width="500" height="500" />
