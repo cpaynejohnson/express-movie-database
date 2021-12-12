@@ -1,6 +1,6 @@
 # express-movie-database
-![Postman of create cast]<img src="public/post_cast.png" width="400" height="400" />
-![Postman of get cast by id]<img src="public/get_cast_by_id.png"/>
+<img src="public/post_cast.png" width="400" height="400" />
+![Postman of get cast by id]<img src="public/get_cast_by_id.png" width="400 height="400"/>
 
 # The goal of this project is to: 
 
